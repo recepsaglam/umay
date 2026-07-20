@@ -186,40 +186,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IRMAXOXI
 
 [Document9]
-DocumentPath=design\umay.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TNMMOSFV
-
-[Document10]
-DocumentPath=umay.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
 DocumentPath=design\RevisionHistory.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PWGGHDCS
 
-[Document12]
+[Document10]
 DocumentPath=design\PCBDrawing.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,8 +219,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TVVYQTGZ
 
-[Document13]
-DocumentPath=fabrication\umay.Cam
+[Document11]
+DocumentPath=design\umay.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document12]
+DocumentPath=design\umay.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,87 +254,71 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for umay\Design Rule Check - umay.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for umay\umay.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for umay\umay.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for umay\umay_Bottom_Tenting.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for umay\umay_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for umay\umay_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for umay\umay_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for umay\umay_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for umay\umay_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for umay\umay_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for umay\umay_NPTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for umay\umay_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for umay\umay_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for umay\umay_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for umay\umay_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for umay\umay_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for umay\umay_PTH_Drill.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for umay\umay_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for umay\umay_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for umay\umay_Top_Tenting.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for umay\umayBOM.xlsx
 DItemRevisionGUID=
 
 [Parameter1]
@@ -1115,6 +1082,16 @@ Type158=1
 Type159=1
 Type160=1
 Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1205,6 +1182,13 @@ Type85=1
 Type86=1
 Type87=1
 Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
